@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  font-family: cursive;
+  font-size:18px;
+}
+
+li{
+  list-style: georgian;
+  line-height: normal;
+  text-align: left;
+}
+
+.header{
+  background: #f4f4f4;
+  border-bottom: #ccc 3px solid;
+  padding: 20px;
+}
+
+.container{
+width: 700px;
+margin: 30px auto;
+}
